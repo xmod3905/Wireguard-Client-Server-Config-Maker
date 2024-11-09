@@ -2,7 +2,6 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/xmod3905/Wireguard-Client-Server-Config-Maker?label=commits&style=for-the-badge&logo=github)](https://github.com/xmod3905/Wireguard-Client-Server-Config-Maker/commits "Commit History")
 ![GitHub Repo stars](https://img.shields.io/github/stars/xmod3905/Wireguard-Client-Server-Config-Maker?style=for-the-badge&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/xmod3905/Wireguard-Client-Server-Config-Maker?style=for-the-badge&logo=github)
-
 ![GitHub watchers](https://img.shields.io/github/watchers/xmod3905/Wireguard-Client-Server-Config-Maker?style=for-the-badge&logo=github)
 ![GitHub License](https://img.shields.io/github/license/xmod3905/Wireguard-Client-Server-Config-Maker?style=for-the-badge&logo=github)
 ![GitHub contributors](https://img.shields.io/github/contributors/xmod3905/Wireguard-Client-Server-Config-Maker?style=for-the-badge&logo=github)
